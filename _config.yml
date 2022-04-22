@@ -1,0 +1,22 @@
+title: <p align="center"> Rifqi Arrahim </p>
+
+logo: "/images/S__51404807.jpg?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/CV_DEC_21_FIX.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rifqi-arrahim-983935112/">LinkedIn</a> |
+  <a href="https://github.com/rifqiarrahim">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Informatics Student at Telkom University.
+  <br><br>
+  Artificial Intelligence Assistant Lecturer at Telkom University
+  <br><br>
+  Studi Independen: Data Warehousing, Analyst, Visualization for Business Insights
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-145578661-1 # Google Analytics tracking ID
